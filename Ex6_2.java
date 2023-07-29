@@ -19,6 +19,8 @@ public class Ex6_2 {
 		//System.out.println("t1의 channel값은"+t1.channel+"입니다.");
 		//t1.channelUp();
 		//System.out.println("t1의 channel값은"+t1.channel+"입니다.");
+
+
 		
 
 	}
